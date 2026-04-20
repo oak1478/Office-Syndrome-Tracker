@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///E:/Medi-Tap%20Health%20Note/Office%20Syndrome%20Tracker/app/template.tsx"],"sourcesContent":["\"use client\";\r\nimport React from \"react\";\r\n\r\nexport default function Template({ children }: { children: React.ReactNode }) {\r\n  return (\r\n    <div style={{\r\n      animation: \"fadeInUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards\",\r\n      opacity: 0,\r\n      transform: \"translateY(20px)\"\r\n    }}>\r\n      <style>{`\r\n        @keyframes fadeInUp {\r\n          to {\r\n            opacity: 1;\r\n            transform: translateY(0);\r\n          }\r\n        }\r\n      `}</style>\r\n      {children}\r\n    </div>\r\n  );\r\n}"],"names":[],"mappings":";;;;;AAAA;;AAGe,SAAS,SAAS,EAAE,QAAQ,EAAiC;IAC1E,qBACE,6LAAC;QAAI,OAAO;YACV,WAAW;YACX,SAAS;YACT,WAAW;QACb;;0BACE,6LAAC;0BAAO,CAAC;;;;;;;MAOT,CAAC;;;;;;YACA;;;;;;;AAGP;KAlBwB"}}]
+}

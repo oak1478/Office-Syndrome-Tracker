@@ -1,0 +1,17 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/api/admin/role/route": "app/api/admin/role/route.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/api/records/[id]/route": "app/api/records/[id]/route.js",
+  "/api/records/route": "app/api/records/route.js",
+  "/api/register/route": "app/api/register/route.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/exercises/page": "app/exercises/page.js",
+  "/login/page": "app/login/page.js",
+  "/page": "app/page.js",
+  "/records/[id]/edit/page": "app/records/[id]/edit/page.js",
+  "/records/new/page": "app/records/new/page.js",
+  "/records/page": "app/records/page.js",
+  "/register/page": "app/register/page.js"
+}
