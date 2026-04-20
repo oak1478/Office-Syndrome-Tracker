@@ -1,0 +1,311 @@
+[00:00:01.510] Server  LOG     ✓ Ready in 1047ms
+[00:00:09.373] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:33.075] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:34.795] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:38.936] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:48.374] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:49.843] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:04:43.270] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:04:44.560] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:55.902] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:04.732] Browser ERROR   In HTML, whitespace text nodes cannot be a child of <%s>. Make sure you don't have any extra whitespace between tags on each line of your source code.
+This will cause a hydration error.%s tr 
+
+  ...
+    <InnerScrollAndFocusHandler segmentPath={[...]} focusAndScrollRef={{apply:true, ...}}>
+      <ErrorBoundary errorComponent={undefined} errorStyles={undefined} errorScripts={undefined}>
+        <LoadingBoundary name="admin/" loading={null}>
+          <HTTPAccessFallbackBoundary notFound={undefined} forbidden={undefined} unauthorized={undefined}>
+            <RedirectBoundary>
+              <RedirectErrorBoundary router={{...}}>
+                <InnerLayoutRouter url="/admin" tree={[...]} params={{}} cacheNode={{rsc:<Fragment>, ...}} ...>
+                  <SegmentViewNode type="page" pagePath="admin/page...">
+                    <SegmentTrieNode>
+                    <AdminDashboard>
+                      <main style={{padding:"6...", ...}}>
+                        <header>
+                        <div>
+                        <section style={{...}}>
+                          <h2>
+                          <div style={{...}}>
+                            <table style={{width:"100%", ...}}>
+                              <thead>
+>                               <tr style={{background:"#f8fafc",borderBottom:"2px solid ..."}}>
+                                  <th>
+                                  <th>
+                                  <th>
+                                  <th>
+>                                 {" "}
+                                  ...
+                              ...
+                  ...
+                ...
+      ...
+
+[00:07:11.875] Browser ERROR   ./app/admin/page.tsx:1:2
+Parsing ecmascript source code failed
+> 1 | ## Error Type
+    |  ^
+  2 | Console Error
+  3 |
+  4 | ## Error Message
+
+Expected ident
+[00:07:13.869] Browser ERROR   ./app/admin/page.tsx:1:2
+Parsing ecmascript source code failed
+> 1 | ## Error Type
+    |  ^
+  2 | Console Error
+  3 |
+  4 | ## Error Message
+
+Expected ident
+[00:08:51.884] Server  LOG     ✓ Compiled in 102ms
+[00:09:02.635] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:09:02.761] Browser ERROR   In HTML, whitespace text nodes cannot be a child of <%s>. Make sure you don't have any extra whitespace between tags on each line of your source code.
+This will cause a hydration error.%s tr 
+
+  ...
+    <InnerScrollAndFocusHandler segmentPath={[...]} focusAndScrollRef={{apply:false, ...}}>
+      <ErrorBoundary errorComponent={undefined} errorStyles={undefined} errorScripts={undefined}>
+        <LoadingBoundary name="admin/" loading={null}>
+          <HTTPAccessFallbackBoundary notFound={undefined} forbidden={undefined} unauthorized={undefined}>
+            <RedirectBoundary>
+              <RedirectErrorBoundary router={{...}}>
+                <InnerLayoutRouter url="/admin" tree={[...]} params={{}} cacheNode={{rsc:<Fragment>, ...}} ...>
+                  <SegmentViewNode type="page" pagePath="admin/page...">
+                    <SegmentTrieNode>
+                    <AdminDashboard>
+                      <main style={{padding:"6...", ...}}>
+                        <header>
+                        <div>
+                        <section style={{...}}>
+                          <h2>
+                          <div style={{...}}>
+                            <table style={{width:"100%", ...}}>
+                              <thead>
+>                               <tr style={{background:"#f8fafc",borderBottom:"2px solid ..."}}>
+                                  <th>
+                                  <th>
+                                  <th>
+                                  <th>
+>                                 {" "}
+                                  ...
+                              ...
+                  ...
+                ...
+      ...
+
+[00:12:19.765] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:12:19.892] Browser ERROR   In HTML, whitespace text nodes cannot be a child of <%s>. Make sure you don't have any extra whitespace between tags on each line of your source code.
+This will cause a hydration error.%s tr 
+
+  ...
+    <InnerScrollAndFocusHandler segmentPath={[...]} focusAndScrollRef={{apply:false, ...}}>
+      <ErrorBoundary errorComponent={undefined} errorStyles={undefined} errorScripts={undefined}>
+        <LoadingBoundary name="admin/" loading={null}>
+          <HTTPAccessFallbackBoundary notFound={undefined} forbidden={undefined} unauthorized={undefined}>
+            <RedirectBoundary>
+              <RedirectErrorBoundary router={{...}}>
+                <InnerLayoutRouter url="/admin" tree={[...]} params={{}} cacheNode={{rsc:<Fragment>, ...}} ...>
+                  <SegmentViewNode type="page" pagePath="admin/page...">
+                    <SegmentTrieNode>
+                    <AdminDashboard>
+                      <main style={{padding:"6...", ...}}>
+                        <header>
+                        <div>
+                        <section style={{...}}>
+                          <h2>
+                          <div style={{...}}>
+                            <table style={{width:"100%", ...}}>
+                              <thead>
+>                               <tr style={{background:"#f8fafc",borderBottom:"2px solid ..."}}>
+                                  <th>
+                                  <th>
+                                  <th>
+                                  <th>
+>                                 {" "}
+                                  ...
+                              ...
+                  ...
+                ...
+      ...
+
+[00:12:33.854] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:12:35.505] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:12:45.252] Browser ERROR   In HTML, whitespace text nodes cannot be a child of <%s>. Make sure you don't have any extra whitespace between tags on each line of your source code.
+This will cause a hydration error.%s tr 
+
+  ...
+    <InnerScrollAndFocusHandler segmentPath={[...]} focusAndScrollRef={{apply:true, ...}}>
+      <ErrorBoundary errorComponent={undefined} errorStyles={undefined} errorScripts={undefined}>
+        <LoadingBoundary name="admin/" loading={null}>
+          <HTTPAccessFallbackBoundary notFound={undefined} forbidden={undefined} unauthorized={undefined}>
+            <RedirectBoundary>
+              <RedirectErrorBoundary router={{...}}>
+                <InnerLayoutRouter url="/admin" tree={[...]} params={{}} cacheNode={{rsc:<Fragment>, ...}} ...>
+                  <SegmentViewNode type="page" pagePath="admin/page...">
+                    <SegmentTrieNode>
+                    <AdminDashboard>
+                      <main style={{padding:"6...", ...}}>
+                        <header>
+                        <div>
+                        <section style={{...}}>
+                          <h2>
+                          <div style={{...}}>
+                            <table style={{width:"100%", ...}}>
+                              <thead>
+>                               <tr style={{background:"#f8fafc",borderBottom:"2px solid ..."}}>
+                                  <th>
+                                  <th>
+                                  <th>
+                                  <th>
+>                                 {" "}
+                                  ...
+                              ...
+                  ...
+                ...
+      ...
+
+[00:12:55.584] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:12:58.744] Browser ERROR   In HTML, whitespace text nodes cannot be a child of <%s>. Make sure you don't have any extra whitespace between tags on each line of your source code.
+This will cause a hydration error.%s tr 
+
+  ...
+    <InnerScrollAndFocusHandler segmentPath={[...]} focusAndScrollRef={{apply:true, ...}}>
+      <ErrorBoundary errorComponent={undefined} errorStyles={undefined} errorScripts={undefined}>
+        <LoadingBoundary name="admin/" loading={null}>
+          <HTTPAccessFallbackBoundary notFound={undefined} forbidden={undefined} unauthorized={undefined}>
+            <RedirectBoundary>
+              <RedirectErrorBoundary router={{...}}>
+                <InnerLayoutRouter url="/admin" tree={[...]} params={{}} cacheNode={{rsc:<Fragment>, ...}} ...>
+                  <SegmentViewNode type="page" pagePath="admin/page...">
+                    <SegmentTrieNode>
+                    <AdminDashboard>
+                      <main style={{padding:"6...", ...}}>
+                        <header>
+                        <div>
+                        <section style={{...}}>
+                          <h2>
+                          <div style={{...}}>
+                            <table style={{width:"100%", ...}}>
+                              <thead>
+>                               <tr style={{background:"#f8fafc",borderBottom:"2px solid ..."}}>
+                                  <th>
+                                  <th>
+                                  <th>
+                                  <th>
+>                                 {" "}
+                                  ...
+                              ...
+                  ...
+                ...
+      ...
+
+[00:13:01.650] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:02.946] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:07.542] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:09.521] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:16:54.155] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./app/exercises/page.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:16:54.375] Server  LOG     ✓ Compiled in 111ms
+[00:16:54.556] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:17:01.885] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:17:31.351] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:17:32.584] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:19:26.371] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:23:23.058] Server  LOG     ✓ Compiled in 105ms
+[00:23:29.904] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:39.513] Server  LOG     ✓ Compiled in 110ms
+[00:25:39.867] Browser ERROR   ./app/components/HealthMonitor.tsx:85:16
+Parsing ecmascript source code failed
+  83 |           การพักยืดเหยียด: {breakRatio > 0.5 ? 'อยู่ในเกณฑ์เหมาะสม' : 'ท่านพักน้อยกว่าที่กำหนด'} 
+  84 |           ({Math.round(breakRatio * 100)}%)
+> 85 |         </span>
+     |                ^
+
+Expected '</', got '<eof>'
+
+Import traces:
+  Client Component Browser:
+    ./app/components/HealthMonitor.tsx [Client Component Browser]
+    ./app/dashboard/page.tsx [Client Component Browser]
+    ./app/dashboard/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/components/HealthMonitor.tsx [Client Component SSR]
+    ./app/dashboard/page.tsx [Client Component SSR]
+    ./app/dashboard/page.tsx [Server Component]
+[00:26:02.986] Server  LOG     ✓ Compiled in 96ms
+[00:26:07.773] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:27:24.221] Server  LOG     ✓ Compiled in 965ms
+[00:27:39.549] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:27:41.045] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:29:03.204] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:29:04.499] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:29:13.811] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:29:14.681] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:29:22.801] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:29:24.096] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:30:10.824] Server  LOG     ✓ Compiled in 190ms
+[00:30:25.103] Server  LOG     ✓ Compiled in 46ms
+[00:30:32.770] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:30:42.336] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:30:43.359] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:32:29.730] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:32:30.970] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:32:42.228] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:32:43.639] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:32:54.113] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:32:55.308] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:33:03.604] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:33:05.247] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:38:18.656] Server  LOG     ✓ Compiled in 976ms
+[00:38:36.922] Server  LOG     ✓ Compiled in 99ms
+[00:44:51.905] Server  LOG     ✓ Compiled in 986ms
+[00:44:59.761] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:45:15.957] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:45:17.160] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:46:19.957] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:46:21.197] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:48:05.575] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:50:17.200] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:50:28.402] Browser ERROR   In HTML, whitespace text nodes cannot be a child of <%s>. Make sure you don't have any extra whitespace between tags on each line of your source code.
+This will cause a hydration error.%s tr 
+
+  ...
+    <InnerScrollAndFocusHandler segmentPath={[...]} focusAndScrollRef={{apply:true, ...}}>
+      <ErrorBoundary errorComponent={undefined} errorStyles={undefined} errorScripts={undefined}>
+        <LoadingBoundary name="admin/" loading={null}>
+          <HTTPAccessFallbackBoundary notFound={undefined} forbidden={undefined} unauthorized={undefined}>
+            <RedirectBoundary>
+              <RedirectErrorBoundary router={{...}}>
+                <InnerLayoutRouter url="/admin" tree={[...]} params={{}} cacheNode={{rsc:<Fragment>, ...}} ...>
+                  <SegmentViewNode type="page" pagePath="admin/page...">
+                    <SegmentTrieNode>
+                    <AdminDashboard>
+                      <main style={{padding:"6...", ...}}>
+                        <header>
+                        <div>
+                        <section style={{...}}>
+                          <h2>
+                          <div style={{...}}>
+                            <table style={{width:"100%", ...}}>
+                              <thead>
+>                               <tr style={{background:"#f8fafc",borderBottom:"2px solid ..."}}>
+                                  <th>
+                                  <th>
+                                  <th>
+                                  <th>
+>                                 {" "}
+                                  ...
+                              ...
+                  ...
+                ...
+      ...
+
+[00:51:01.325] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:51:02.664] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:51:36.702] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:51:38.763] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:51:44.860] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:51:46.832] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
